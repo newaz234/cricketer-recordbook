@@ -1,0 +1,171 @@
+tamim
+bangladesh
+364 267 342 4 35 2 321
+liton
+bangladesh
+25 39 2 3 5 2 2
+mushfiq
+bangladesh
+101 114 0 2 7 2 34
+shanto
+bangladesh
+82 75 23 434 8 2 4
+miraz
+bangladesh
+90 15 5 3 6 2 78
+sakib
+bangladesh
+6 9 3 0 3 2 6
+mahmudullah
+bangladesh
+101 31 5 5 11 2 56
+ridoy
+bangladesh
+23 15 0 1 1 4 23
+taskin
+bangladesh
+0 0 3 0 0 2 0
+mustafiz
+bangladesh
+0 0 3 0 0 2 0
+shoriful
+bangladesh
+0 0 1 0 0 4 0
+bairstow
+england
+56 48 0 2 3 3 56
+malan
+england
+12 15 0 0 1 3 12
+root
+england
+39 38 0 1 2 3 39
+stokes
+england
+76 65 2 3 3 3 76
+buttler
+england
+35 33 0 2 2 3 35
+ali
+england
+3 5 1 0 0 3 3
+sam
+england
+0 0 1 0 0 3 0
+woakes
+england
+0 0 0 0 0 3 0
+rashid
+england
+0 0 0 0 0 3 0
+wood
+england
+3 0 3 0 0 3 3
+archer
+england
+3 0 2 0 0 3 3
+archer
+england
+3 0 2 0 0 3 3
+archer
+england
+3 0 2 0 0 3 3
+mahedi
+bangladesh
+0 3 1 0 0 2 0
+nasum
+bangladesh
+0 0 2 0 0 2 0
+dsa
+england
+3 4 34 6 3543 1 3
+d
+england
+46 5 67 64 5 1 46
+d
+england
+55 5 4 4 55 1 55
+s
+england
+6 46 46 56 4 1 6
+s
+england
+54 5 4 5 54 1 54
+s
+england
+4 54 4 4 5 1 4
+sd
+england
+5 4 5 4 455 1 5
+england
+0
+0 0 0 0 0 2 0
+england
+0
+0 0 0 0 0 2 0
+williams
+zimbabwe
+0 0 0 0 0 0 0
+raza
+zimbabwe
+0 0 0 0 0 0 0
+malcom
+zimbabwe
+0 0 0 0 0 0 0
+burl
+zimbabwe
+0 0 0 0 0 0 0
+regis
+zimbabwe
+0 0 0 0 0 0 0
+wesley
+zimbabwe
+0 0 0 0 0 0 0
+muzurbani
+zimbabwe
+0 0 0 0 0 0 0
+chatara
+zimbabwe
+0 0 0 0 0 0 0
+taylor
+zimbabwe
+0 0 0 0 0 0 0
+victor
+zimbabwe
+0 0 0 0 0 0 0
+jervo
+zimbabwe
+0 0 0 0 0 0 0
+fakhar
+pakistan
+0 0 0 0 0 0 0
+imam
+pakistan
+0 0 0 0 0 0 0
+babar
+pakistan
+0 0 0 0 0 0 0
+rizwan
+pakistan
+0 0 0 0 0 0 0
+iftekhar
+pakistan
+0 0 0 0 0 0 0
+shahad
+pakistan
+0 0 0 0 0 0 0
+nawaz
+pakistan
+0 0 0 0 0 0 0
+naseem
+pakistan
+0 0 0 0 0 0 0
+haris
+pakistan
+0 0 0 0 0 0 0
+shaheen
+pakistan
+0 0 0 0 0 0 0
+mir
+pakistan
+0 0 0 0 0 0 0

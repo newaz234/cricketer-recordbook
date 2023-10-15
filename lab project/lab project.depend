@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696190669 source:c:\users\cse department 2023\documents\lab project\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+
